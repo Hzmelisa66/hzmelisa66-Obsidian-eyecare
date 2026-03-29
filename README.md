@@ -26,6 +26,9 @@
 ### 2. Immersive Workflow Demonstration (Flow State)
 ![Demo Video](assets/demo-video.mp4)
 
+https://github.com/user-attachments/assets/4e968106-512f-45c7-8013-6654eff935d8
+
+
 ---
 
 ## 💎 [01] The Role
