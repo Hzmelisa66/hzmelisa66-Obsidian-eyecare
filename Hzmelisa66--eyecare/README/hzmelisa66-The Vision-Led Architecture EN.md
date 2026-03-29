@@ -24,7 +24,7 @@
 </p>
 
 ### 2. Immersive Workflow Demonstration (Flow State)
-![Demo Video](assets/demo-video.mp4)
+<video src="assets/demo-video.mp4" width="100%" controls></video>
 
 ---
 
