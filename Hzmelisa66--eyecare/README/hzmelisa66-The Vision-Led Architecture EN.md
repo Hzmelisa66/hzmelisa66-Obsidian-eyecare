@@ -19,12 +19,12 @@
 > **From Default Chaos to V12 OKLCH Order (Original | Blue | Green)**
 
 <p align="center">
-  <img src="./assets/2.png" width="40.2%" alt="Blue Effect" />
-  <img src="./assets/3.png" width="40%" alt="Green Effect" />
+  <img src="assets/2.png" width="40.2%" alt="Blue Effect" />
+  <img src="assets/3.png" width="40%" alt="Green Effect" />
 </p>
 
 ### 2. Immersive Workflow Demonstration (Flow State)
-<video src="./assets/demo-video.mp4" controls="controls" style="max-width: 100%;"></video>
+![Demo Video](assets/demo-video.mp4)
 
 ---
 
