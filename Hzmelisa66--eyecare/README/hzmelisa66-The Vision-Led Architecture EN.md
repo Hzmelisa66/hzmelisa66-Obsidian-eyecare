@@ -24,7 +24,7 @@
 </p>
 
 ### 2. Immersive Workflow Demonstration (Flow State)
-<video src="assets/demo-video.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/Hzmelisa66/hzmelisa66-Obsidian-eyecare/main/Hzmelisa66--eyecare/README/assets/demo-video.mp4" width="100%" controls></video>
 
 ---
 
